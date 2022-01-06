@@ -1,5 +1,9 @@
 AI-Neural-Network
 Object classification using Neural networks.
+Team members: 18127039 - 18127055 - 18127154.
+Class: 18CLC2.
+
+Instruction:
 * Put the dataset in the same folder with the source code.
 
 * For Dogs and Cats dataset: 
