@@ -1,5 +1,5 @@
-# AI-Neural-Network
-Object classification using Neural networks
+AI-Neural-Network
+Object classification using Neural networks.
 * Put the dataset in the same folder with the source code.
 
 * For Dogs and Cats dataset: 
